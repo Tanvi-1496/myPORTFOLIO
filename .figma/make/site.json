@@ -1,0 +1,10 @@
+{
+  "description": "Explore Tanvi’s portfolio to discover her DevOps, AI, and full-stack projects, journey, and live coding stats, or connect through an interactive chatbot.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
