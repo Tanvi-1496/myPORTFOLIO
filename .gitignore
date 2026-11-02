@@ -1,0 +1,41 @@
+# Dependencies & Build
+node_modules/
+dist/
+build/
+.cache/
+.vite/
+vite.config.*.timestamp-*
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.*
+.env*.local
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+*.so
+.Python
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & OS
+*.log
+logs/
+*-debug.log*
+.DS_Store
+Thumbs.db
+.claude-replay.*
+.tmp-*
+/.figma/design-context/
+/.plugins/
+/.opencode-skills/

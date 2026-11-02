@@ -1,0 +1,18 @@
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python virtual environments & bytecode
+__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+.venv/
+
+# OS & Logs
+.DS_Store
+*.log
